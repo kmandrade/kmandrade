@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho como Analista Técnico e Suporte técnico.
+- 🔭 Hoje trabalho como Desenvolvedor .Net na Protech Solutions.
 - 🌱 Estudando ASP.Net Core (C#)
 - 📫 Contate-me no email: kmandrade1@gmail.com
 
