@@ -2,8 +2,19 @@
 
 
 
-- 🔭 Hoje trabalho como Desenvolvedor .Net na Protech Solutions.
-- 🌱 Estudando ASP.Net Core (C#)
+- 🔭 Desenvolvedor FullStack com foco em BackEnd
+  • Membro interno do time de Emissão Legado, o qual realiza todo o controle e
+  gestão dos clientes do Banco do Estado de Sergipe (Desenvolvedor pela ProtechSolutions).
+  • Responsável por criar funcionalidades novas dentro do sistema interno e
+  corrigir bugs ou problemas apresentados, desenvolvendo soluções tanto no
+  Back-End quanto no Front-End com escalabilidade, bom uso do design
+  patterns e práticas como Código Limpo e CI/CD.
+  • Linguagem principal utilizada: C#
+  • Ferramentas, frameworks e tecnologias utilizadas:
+  ASP.NET, .NET Framerowk (1.1 a 4.8), NET.Core, .NET(5.0 e 6.0), SQL Server,
+  Azure, Jenkins, SonarQube,GIT, GITEA, MVC, Web Forms, Stored Procedures.
+  JS, AJAX, Jquery, HTML/CSS, Bootstrap
+ 
 - 📫 Contate-me no email: kmandrade1@gmail.com
 
 
