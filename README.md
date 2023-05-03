@@ -3,6 +3,7 @@
 
 
 - 🔭 Desenvolvedor FullStack com foco em BackEnd
+
   • Membro interno do time de Emissão Legado, o qual realiza todo o controle e
   gestão dos clientes do Banco do Estado de Sergipe (Desenvolvedor pela ProtechSolutions).
   
