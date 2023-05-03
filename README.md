@@ -12,6 +12,7 @@
   patterns e práticas como Código Limpo e CI/CD.
   
   • Linguagem principal utilizada: C#
+  
   • Ferramentas, frameworks e tecnologias utilizadas:
   ASP.NET, .NET Framerowk (1.1 a 4.8), NET.Core, .NET(5.0 e 6.0), SQL Server,
   Azure, Jenkins, SonarQube,GIT, GITEA, MVC, Web Forms, Stored Procedures.
