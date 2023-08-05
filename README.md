@@ -5,7 +5,7 @@
 - 🔭 Desenvolvedor FullStack com foco em BackEnd
 
   • Membro interno do time de Emissão Legado, o qual realiza todo o controle e
-  gestão dos clientes do Banco do Estado de Sergipe (Desenvolvedor pela ProtechSolutions).
+  gestão dos clientes de cartão de crédito da Mulvi que pertecente ao grupo Banese (Desenvolvedor pela Protech Solutions).
   
   • Responsável por criar funcionalidades novas dentro do sistema interno e
   corrigir bugs ou problemas apresentados, desenvolvendo soluções tanto no
