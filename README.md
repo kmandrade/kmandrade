@@ -15,9 +15,10 @@
   • Linguagem principal utilizada: C#
   
   • Ferramentas, frameworks e tecnologias utilizadas:
-  ASP.NET, .NET Framerowk (1.1 a 4.8), NET.Core, .NET(5.0 e 6.0), SQL Server,
+  ASP.NET, ASP.NET Core, .NET Framerowk (1.1 a 4.8), .NET(5.0 e 6.0), SQL Server,
   Azure, Jenkins, SonarQube,GIT, GITEA, MVC, Web Forms, Stored Procedures.
   JS, AJAX, Jquery, HTML/CSS, Bootstrap.
+  
   • Conhecimentos sólidos em SQL Server: Procedures, Views, functions, Triggers e etc.
  
 - 📫 Contate-me no email: kmandrade1@gmail.com
