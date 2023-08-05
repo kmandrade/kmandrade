@@ -15,8 +15,8 @@
   • Linguagem principal utilizada: C#
   
   • Ferramentas, frameworks e tecnologias utilizadas:
-  ASP.NET, ASP.NET Core, .NET Framerowk (1.1 a 4.8), .NET(5.0 e 6.0), SQL Server,
-  Azure, Jenkins, SonarQube,GIT, GITEA, MVC, Web Forms, Stored Procedures.
+  ASP.NET, ASP.NET Core, .NET Framerowk (1.1 a 4.8), .NET(5.0 e 6.0), Entity Framework, Entity framework Core,
+  SQL Server, Azure, Jenkins, SonarQube,GIT, GITEA, MVC, Web Forms, Stored Procedures.
   JS, AJAX, Jquery, HTML/CSS, Bootstrap.
   
   • Conhecimentos sólidos em SQL Server: Procedures, Views, functions, Triggers e etc.
