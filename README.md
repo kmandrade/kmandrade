@@ -5,6 +5,7 @@
 - Especialista em Back-end, em tecnologias do .NET (framework 1.1 (Windows xp) a .NET 7), além de ter conhecimento razoável em ferramentas e tecnologias do Front-end. Atuo na área de TI, desde 2020 em suporte técnico, e desde 2021 em desenvolvimento de software, com foco em Sistemas Legados, realizando migração de sistemas com utilização de arquiteturas modernas. Me caracterizo como uma pessoa proativa, lido muito bem com trabalho em equipe e busco constantemente me atualizar e expandir conhecimentos, dando meu melhor no que me proponho a fazer.
 
 Atualmente faço parte de:
+
  Membro interno da equipe de Emissão Legado, responsável por desempenhar um papel fundamental no controle e gerenciamento dos clientes da Mulvi, uma empresa especializada em credenciamento de cartões de crédito e soluções bancárias.
 • Responsável por criar funcionalidades novas dentro do sistema interno e corrigir bugs ou problemas apresentados, desenvolvendo soluções tanto no Back-End quanto no Front-End com escalabilidade, bom uso do design patterns e práticas como Código Limpo e CI/CD.
 
