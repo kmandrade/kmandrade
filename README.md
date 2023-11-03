@@ -10,6 +10,7 @@ Atualmente faço parte de:
 • Responsável por criar funcionalidades novas dentro do sistema interno e corrigir bugs ou problemas apresentados, desenvolvendo soluções tanto no Back-End quanto no Front-End com escalabilidade, bom uso do design patterns e práticas como Código Limpo e CI/CD.
 
 •Principais funcionalidades desenvolvidas:
+
  1 - Criação de batchs (rotinas) para atualização cadastral dos clientes, através da criação de Stored Procedures (SQL Server);
 
  2 - Melhorias no serviço de Empréstimo de crédito, resolvendo problemas existentes no sistema e criando novas funcionalidades;
