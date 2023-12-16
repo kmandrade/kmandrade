@@ -7,19 +7,8 @@
 Atualmente faço parte de:
 
  Membro interno da equipe de Emissão Legado, responsável por desempenhar um papel fundamental no controle e gerenciamento dos clientes da Mulvi, uma empresa especializada em credenciamento de cartões de crédito e soluções bancárias.
+
 • Responsável por criar funcionalidades novas dentro do sistema interno e corrigir bugs ou problemas apresentados, desenvolvendo soluções tanto no Back-End quanto no Front-End com escalabilidade, bom uso do design patterns e práticas como Código Limpo e CI/CD.
-
-•Principais funcionalidades desenvolvidas:
-
- 1 - Criação de batchs (rotinas) para atualização cadastral dos clientes, através da criação de Stored Procedures (SQL Server);
-
- 2 - Melhorias no serviço de Empréstimo de crédito, resolvendo problemas existentes no sistema e criando novas funcionalidades;
-
- 3 - Participação na migração da arquitetura dos sistemas legados .Net Framework 1.1 a 4.8, como também migração de serviços existentes para .NET 7 Api Rest;
-
- 4 - Criação e manutenção dos serviços da gestão e controle dos clientes, tanto na área de cadastro quanto boleto, limite de crédito etc.Membro interno da equipe de Emissão Legado, responsável por desempenhar um papel fundamental no controle e gerenciamento dos clientes da Mulvi, uma empresa especializada em credenciamento de cartões de crédito e soluções bancárias. 
-
-• Responsável por criar funcionalidades novas dentro do sistema interno e corrigir bugs ou problemas apresentados, desenvolvendo soluções tanto no Back-End quanto no Front-End com escalabilidade, bom uso do design patterns e práticas como Código Limpo e CI/CD. 
 
 •Principais funcionalidades desenvolvidas: 
 
