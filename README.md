@@ -6,16 +6,9 @@
 
 Atualmente faço parte de:
 
- Membro interno da equipe de Emissão Legado, responsável por desempenhar um papel fundamental no controle e gerenciamento dos clientes da Mulvi, uma empresa especializada em credenciamento de cartões de crédito e soluções bancárias.
+• Atuo como membro chave da equipe de desenvolvimento do sistema financeiro do Pecege, especializando-me no desenvolvimento de APIs REST utilizando a linguagem C# e o framework .net 8. 
 
-• Responsável por criar funcionalidades novas dentro do sistema interno e corrigir bugs ou problemas apresentados, desenvolvendo soluções tanto no Back-End quanto no Front-End com escalabilidade, bom uso do design patterns e práticas como Código Limpo e CI/CD.
-
-•Principais funcionalidades desenvolvidas: 
-
-    1 - Criação de batchs (rotinas) para atualização cadastral dos clientes, através da criação de Stored Procedures (SQL Server); 
-    2 - Melhorias no serviço de Empréstimo de crédito, resolvendo problemas existentes no sistema e criando novas funcionalidades; 
-    3 - Participação na migração da arquitetura dos sistemas legados .Net Framework 1.1 a 4.8, como também migração de serviços existentes para .NET 7 Api Rest; 
-    4 - Criação e manutenção dos serviços da gestão e controle dos clientes, tanto na área de cadastro quanto boleto, limite de crédito etc.
+Realizo implementações em uma WebApi, utilizando uma arquitetura limpa com princípios de DDD, SOLID e domínios ricos. Utilizo Microsoft SQL Server para gerenciamento de banco de dados, EF Core para integração e Redis para caching NoSQL. Gerencio projetos com Azure DevOps, utilizando recursos como Boards, Repos, Pipelines, Functions e Storage. No controle de versionamento, emprego Git, adotando Conventional Commits e SemVer. Realizo testes de integração e unidade com xUnit para garantir a qualidade da API. Também sou responsável pela refatoração de código e otimização de banco de dados, além de integrar a API com outros sistemas web.
 
 Competências: .NET Core · HTML · Ciclo de vida de sistemas de informação · Interface de programação de aplicativos (API) · Bancos de dados relacionais 
 · HTML5 · CSS · Comunicação · Banco de dados · Azure DevOps · Microsoft SQL Server · API de ASP.NET para Web · ASP.NET MVC 
