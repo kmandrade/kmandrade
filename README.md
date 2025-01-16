@@ -1,21 +1,30 @@
 ### Olá eu sou Kelvin Andrade 👋
 
+- Sou Especialista em Back-end com vasta experiência em .NET (desde a versão 1.1 no Windows XP até o .NET 8). Tenho uma sólida trajetória no desenvolvimento de APIs RESTful, integração de sistemas legados e soluções financeiras. Além disso, possuo um bom conhecimento em tecnologias de Front-end e sempre busco me atualizar para oferecer soluções modernas e eficientes.
+
+Projetos Recentes 🎯
+📌 Migração de Sistemas Legados
+Migração de sistemas desenvolvidos em .NET Framework 1.1 para .NET 7 com APIs REST.
+Modernização de serviços SOAP para APIs RESTful.
+📌 Soluções bancárias
+Implementação de uma campanha com premiações automáticas via roleta premiada.
+Integração do PIX como método de pagamento para realização de pagamento em empréstimos bancários.
+Automatização de atualização cadastral por meio de Stored Procedure no Sql Server.
+📌 Soluções Financeiras
+Geração automática de relatórios financeiros e controle de tarifas em um ecossistema financeiro educacional.
 
 
-- Especialista em Back-end, em tecnologias do .NET (framework 1.1 (Windows xp) a .NET 7), além de ter conhecimento razoável em ferramentas e tecnologias do Front-end. Atuo na área de TI, desde 2020 em suporte técnico, e desde 2021 em desenvolvimento de software, com foco em Sistemas Legados, realizando migração de sistemas com utilização de arquiteturas modernas. Me caracterizo como uma pessoa proativa, lido muito bem com trabalho em equipe e busco constantemente me atualizar e expandir conhecimentos, dando meu melhor no que me proponho a fazer.
-
-Atualmente faço parte de:
-
-• Atuo como membro chave da equipe de desenvolvimento do sistema financeiro do Pecege, especializando-me no desenvolvimento de APIs REST utilizando a linguagem C# e o framework .net 8. 
-
-Realizo implementações em uma WebApi, utilizando uma arquitetura limpa com princípios de DDD, SOLID e domínios ricos. Utilizo Microsoft SQL Server para gerenciamento de banco de dados, EF Core para integração e Redis para caching NoSQL. Gerencio projetos com Azure DevOps, utilizando recursos como Boards, Repos, Pipelines, Functions e Storage. No controle de versionamento, emprego Git, adotando Conventional Commits e SemVer. Realizo testes de integração e unidade com xUnit para garantir a qualidade da API. Também sou responsável pela refatoração de código e otimização de banco de dados, além de integrar a API com outros sistemas web.
-
-Competências: .NET Core · HTML · Ciclo de vida de sistemas de informação · Interface de programação de aplicativos (API) · Bancos de dados relacionais 
-· HTML5 · CSS · Comunicação · Banco de dados · Azure DevOps · Microsoft SQL Server · API de ASP.NET para Web · ASP.NET MVC 
-· Programação (computação) · WinForms · Metodologias Agile · ASP.NET · JavaScript · Scrum · SQL · C# · Desenvolvimento aplicativos da web · .NET Framework
+Habilidades Técnicas 🔧
+Back-end: C#, .NET Framework/Core (1.1 a 8), ASP.NET, EF Core, Web API.
+Front-end: HTML, CSS, JavaScript, Bootstrap.
+Banco de Dados: SQL Server, PL/SQL, PostgreSQL.
+Ferramentas e DevOps: Git, Azure DevOps, Docker, Redis, SonarQube, Jenkins.
+Design e Arquitetura: DDD, Clean Architecture, SOLID, CQRS, MVC.
+Metodologias Ágeis: Scrum, Kanban.
+Outras linguagens: C, Python, Java, PHP.
  
 - 📫 Contate-me no email: kmandrade1@gmail.com
-
+- 💼 LinkedIn: https://www.linkedin.com/in/kelvin-andrade/
 
 <div align="left">
   <a href="https://github.com/kmandrade">
