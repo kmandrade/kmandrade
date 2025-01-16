@@ -6,19 +6,19 @@ Projetos Recentes 🎯
 
 📌 Migração de Sistemas Legados
 
-Migração de sistemas desenvolvidos em .NET Framework 1.1 para .NET 7 com APIs REST.
-Modernização de serviços SOAP para APIs RESTful.
+* Migração de sistemas desenvolvidos em .NET Framework 1.1 para .NET 7 com APIs REST.
+* Modernização de serviços SOAP para APIs RESTful.
 
 📌 Soluções bancárias
 
-Implementação de uma campanha com premiações automáticas via roleta premiada.
-Integração do PIX como método de pagamento para realização de pagamento em empréstimos bancários.
-Automatização de atualização cadastral por meio de Stored Procedure no Sql Server.
+* Implementação de uma campanha com premiações automáticas via roleta premiada.
+* Integração do PIX como método de pagamento para realização de pagamento em empréstimos bancários.
+* Automatização de atualização cadastral por meio de Stored Procedure no Sql Server.
 
 📌 Soluções Financeiras
 
-Geração automática de relatórios financeiros e controle de tarifas em um ecossistema financeiro educacional.
-
+* Geração automática de relatórios financeiros e controle de tarifas em um ecossistema financeiro educacional.
+* Automatização ao gerar propostas comerciais (arquivos .doc) já preenhcidos com dados existentes no sistema financeiro.
 
 Habilidades Técnicas 🔧
 
