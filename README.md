@@ -1,6 +1,6 @@
 ### Olá eu sou Kelvin Andrade 👋
 
-- Sou Especialista em Back-end com vasta experiência em .NET (desde a versão 1.1 no Windows XP até o .NET 8). Tenho uma sólida trajetória no desenvolvimento de APIs RESTful, integração de sistemas legados e soluções financeiras. Além disso, possuo um bom conhecimento em tecnologias de Front-end e sempre busco me atualizar para oferecer soluções modernas e eficientes.
+- Sou Especialista em Back-end com vasta experiência em .NET (desde a versão 1.1 no Windows XP até o .NET 8). Tenho uma sólida trajetória no desenvolvimento de APIs RESTful, integração de sistemas legados e soluções financeiras. Além disso, possuo experiência avançada em SQL Server, incluindo a criação e otimização de queries complexas, procedures, functions, views, triggers e jobs. Também possuo conhecimento em tecnologias de Front-end e sempre busco me atualizar para oferecer soluções modernas e eficientes.
 
 Projetos Recentes 🎯
 
