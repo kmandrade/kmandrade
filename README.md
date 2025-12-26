@@ -17,14 +17,16 @@ Projetos Recentes 🎯
 
 📌 Soluções Financeiras
 
-* Geração automática de relatórios financeiros e controle de tarifas em um ecossistema financeiro educacional.
+* Migração do sistema de autenticação para Azure AD B2C: Liderança na transição do sistema financeiro para Azure AD B2C, implementando autenticação e autorização segura para usuários internos e externos.
+* Automatização na geração de contas de pagamento através da geração de tarifas que são pagas para cada tipo de pagamento que seja realizado pelo ecossistema.
 * Automatização ao gerar propostas comerciais (arquivos .doc) já preenhcidos com dados existentes no sistema financeiro.
+* Melhorias de performance através de análises da estrutura na base de dados e implementando melhorias na estrutura.
 
 Habilidades Técnicas 🔧
 
 * Back-end: C#, .NET Framework/Core (1.1 a 8), ASP.NET, EF Core, Web API.
 
-* Front-end: HTML, CSS, JavaScript, Bootstrap.
+* Front-end: HTML, CSS, JavaScript, Bootstrap, Angular, Ionic.
 
 * Banco de Dados: SQL Server, PL/SQL, PostgreSQL.
 
